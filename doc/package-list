@@ -1,0 +1,8 @@
+com.impetus.portfolio.Repository
+com.impetus.portfolio.domain
+com.impetus.portfolio.exceptions
+com.impetus.portfolio.mailing
+com.impetus.portfolio.service
+com.impetus.portfolio.serviceImpl
+com.impetus.portfolio.web
+com.impetus.portfolio.xmlfeed
